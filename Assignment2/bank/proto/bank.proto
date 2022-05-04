@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option go_package = "proto/bank.proto;bank_proto";
+
+package bank;
+
+service Bank{
+	rpc Bank(BankRequest) returns (BankReply){} 
+} 
+
+message BankRequest{
+	string op = 1;
+	string id = 2;
+	double p = 3;
+} 
+message BankReply{
+	string m = 1;
+} 
