@@ -1,0 +1,14 @@
+5. Most of my sources are about syntax and packages of Golang. Hopefully these will help!
+https://pkg.go.dev/os#File.Close
+https://golangcode.com/find-the-length-of-an-array/
+https://zetcode.com/golang/writefile/
+https://stackoverflow.com/questions/8539551/dynamically-initialize-array-size-in-go
+https://pkg.go.dev/sort#Float64s
+https://www.cyberciti.biz/faq/golang-for-loop-examples/
+https://www.geeksforgeeks.org/fmt-scan-function-in-golang-with-examples/
+https://pkg.go.dev/bufio#ScanLines
+https://appdividend.com/2019/12/11/how-to-open-file-in-golang-go-file-open-example/
+https://stackoverflow.com/questions/64744802/safely-close-a-file-descriptor-in-golang
+https://www.geeksforgeeks.org/command-line-arguments-in-golang/
+https://pkg.go.dev/encoding/json#NewDecoder
+6.Go is a more powerful version of C. Syntactically Go and C are similar, but Go has more packages and as a result, more built-in functions, whereas I had to write everything by myself if I was writing C. I enjoyed writing C programs in the past, yet I feel contructing programs in Go allows me to focus more on the general structures instead of minor details
